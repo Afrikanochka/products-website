@@ -1,8 +1,8 @@
 # Name of the project: 
-Front-end Project Advanced "E-commerce website".
+Front-end Project Advanced "Products website".
 
 ## Link to the demo: 
-[https://cah4o.github.io/bof-frontend-project-advanced/](https://cah4o.github.io/bof-frontend-project-advanced/) 
+[https://afrikanochka.github.io/products-website/](https://afrikanochka.github.io/products-website/) 
 
 ## Tech stack: 
 - HTML;
@@ -12,7 +12,7 @@ Front-end Project Advanced "E-commerce website".
 - REST API.
 
 ## Description:
-The final front-end task under the BOF program. The goal - to create an e-commerce website using REST API for my skills assessment. All requirements from the Integrify academy are described below.
+The final front-end task under the BOF program. The goal - to create an products website using REST API for my skills assessment. All requirements from the Integrify academy are described below.
 The site consists of several pages, showing all products, a specific selected product, a shopping cart for selected products, and a user profile. To move to addresses without reloading the page and to redirection it used a React Router (AppRouter.ts).
 Reducers and the global storag were implemented to work with products and manipulate them. Products can be sorted, categorized, added to cart or liked. To store data when reloading the page, a subscription and pre-loading of data was implemented by working with the local store. Products are featched by axios, using the REST API. Also REST API is used for user registration and authorization. If the user is registered, he can get to the profile page. Workers for products, users and credential  were created to work with API and programm. Credential worker is responsible for authorizing the user and rights. For example, if you log in as an admin, you can view all users on the profile page or edit the product. There are two mods, dark and light, and the whole design and styles are fired up using Material UI.
 

@@ -28,7 +28,7 @@ export default function Header(): JSX.Element {
             component="div"
             sx={{ display: { xs: "none", sm: "block" } }}
           >
-            E-commerce website
+            Products website
           </Typography>
           <Box sx={{ flexGrow: 1 }} />
           <HeaderMenu />

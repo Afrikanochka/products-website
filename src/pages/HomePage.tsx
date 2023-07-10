@@ -31,7 +31,7 @@ export default function HomePage() {
         You will redirect on Products in 3 seconds
       </Typography>
       <Typography variant="body2" fontSize="2rem">
-        by Oleksandr Tertyshnyk
+        by Nataliia Polovynko
       </Typography>
     </Box>
   );

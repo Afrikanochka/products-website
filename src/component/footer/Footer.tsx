@@ -10,7 +10,7 @@ export default function Footer(): JSX.Element {
     <AppBar position="static">
       <Box display="flex" justifyContent="space-between" alignItems="center">
         <Box margin="1rem">
-          <Typography>&copy; Copyright, Integrify, OTI, Dec 2022</Typography>
+          <Typography>&copy; Copyright, Integrify, OTI, Apr 2023</Typography>
         </Box>
         <FooterForm />
         <Box margin="1rem">
