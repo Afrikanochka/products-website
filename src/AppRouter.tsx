@@ -44,7 +44,7 @@ export default function AppRouter(): JSX.Element {
       },
     ],
     {
-      basename: "/bof-frontend-project-advanced",
+      basename: "/",
     }
   );
 
